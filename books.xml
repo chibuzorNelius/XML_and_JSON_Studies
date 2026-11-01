@@ -1,0 +1,18 @@
+
+<xml version="1.0"  encoding="18-8859-1"?>
+<!-- <?xml-stylesheet type="text/xsl" href="/"> -->
+<bookstore>
+<book>
+    <title lang="en">THE BATMAN</title>
+    <author>ROBERT PATTINSON</author>
+    <year>2009</year>
+    <price>29.99</price>
+</book>
+
+<book>
+    <title lang="en"></title>
+    <author>ROBERT PATTINSON</author>
+    <year>2009</year>
+    <price>29.99</price>
+</book>
+</bookstore>

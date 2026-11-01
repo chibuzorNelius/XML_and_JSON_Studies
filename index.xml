@@ -1,0 +1,22 @@
+<!-- Let validate -->
+<xml version="1.0"  encoding="18-8859-1"?>
+<DOCTYPE spiderMan [
+    <!ELEMENT spiderMan (img, title, year, runningTime, directedBy, producedBy, starring)>
+    <!ELEMENT img (#PCDATA)>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT year (#PCDATA)>
+    <!ELEMENT runningTime (#PCDATA)>
+    <!ELEMENT directedBy (#PCDATA)>
+    <!ELEMENT producedBy (#PCDATA)>
+    <!ELEMENT starring (#PCDATA)>
+]>
+
+<spiderMan>
+<img>./BATMAN222.jpeg" alt="THE BATMAN"</img>
+<title>THE BATMAN</title>
+<year>2022</year>
+<runningTime>176 MINUTES</runningTime>
+<directedBy>MATT REEVES</directedBy>
+<producedBy>TINA ANDERSON DYLAN CLAK WALTER HAMADA</producedBy>
+<starring>ROBERT PATTINSON ZOË KRAVITZ JEFFREY WRIGHT</starring> 
+</spiderMan>

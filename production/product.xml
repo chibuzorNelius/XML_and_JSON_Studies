@@ -1,0 +1,18 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+
+
+<products>
+
+    <product>
+    <name>SupportNova</name>
+    <discription>customer support system</discription>
+    <price>$50 month</price>
+    </product>
+
+    <product>
+    <name>Lina Agent</name>
+    <discription>Personal Ai assistant</discription>
+    <price>$57 month</price>
+    </product>
+</products>
